@@ -1,4 +1,4 @@
-<h2 align="center">Hi,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm PRATHAM MISHRA!</a></h2>
+<h2 align="center">Hi,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm PRATHAM MISHRA!</h2>
 
 
 <h2> About Me 🚀 </h2>
